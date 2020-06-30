@@ -1,0 +1,9 @@
+.alert-message {
+  color: #FF0000;
+  font-size: 12px;
+	line-height: 15px;
+  padding: 3px 0 0 5px;
+	margin-bottom: 14px;
+	display: block;
+	height: 15px;
+}

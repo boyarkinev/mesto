@@ -1,0 +1,17 @@
+@import url(./__image/popup-card__image.css);
+
+.popup-card {
+/*
+	max-width: 80vw;
+	max-height: 80vh;
+*/
+  background-color: #fff;
+  position: relative;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 540px) {
+  .popup-card {
+    width: calc(100% - 60px);
+  }
+}
