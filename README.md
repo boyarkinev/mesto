@@ -12,4 +12,4 @@ HTML5, CSS3, JavaScript
 ### В планах:
 * Переписать js-код на ООП
 ### Ссылка для просмотра
-https://boyarkinev.github.io/praktikum/mesto/
+https://boyarkinev.github.io/mesto/
